@@ -777,6 +777,8 @@ a:hover {
 
 }
 
+
+
 @media (min-width: 768px) {
   .hero .hero-title {
     font-size: 4.5rem;
@@ -833,6 +835,8 @@ a:hover {
 .hero-single .breadcrumb a {
   color: #fff;
 }
+
+
 
 /*--------------------------------------------------------------
 # About
